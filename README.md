@@ -1,2 +1,2 @@
 # StudentManager
-Basic Student Manager
+Basic Student Manager Console Application
